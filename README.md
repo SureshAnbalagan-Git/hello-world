@@ -1,5 +1,4 @@
 # hello-world
-Test git
 
 Updating information about the purpose of the project:
 
